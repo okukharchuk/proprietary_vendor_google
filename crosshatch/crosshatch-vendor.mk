@@ -69,14 +69,10 @@ PRODUCT_PACKAGES += \
     uceShimService \
     uimlpaservice \
     vzw_msdc_api \
-    AmbientSensePrebuilt \
     CNEService \
     CarrierSetup \
     DMService \
     EuiccGoogle \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentTGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
     ModemService \
     OemDmTrigger \
     SprintDM \
