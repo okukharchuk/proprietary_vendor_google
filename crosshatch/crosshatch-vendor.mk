@@ -1407,15 +1407,12 @@ PRODUCT_PACKAGES += \
     TimeService \
     crosshatch_game_driver \
     com.qualcomm.qti.services.secureui \
-    AmbientSensePrebuilt \
     CarrierServices \
     CarrierSettings \
     CarrierSetup \
     DMService \
     EuiccGoogle \
     EuiccSupportPixel \
-    HotwordEnrollmentOKGoogleWCD9340 \
-    HotwordEnrollmentXGoogleWCD9340 \
     OemDmTrigger \
     RilConfigService \
     SprintDM \
